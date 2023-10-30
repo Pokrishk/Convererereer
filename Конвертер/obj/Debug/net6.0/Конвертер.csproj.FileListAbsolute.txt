@@ -1,0 +1,17 @@
+C:\Users\annak\source\repos\Конвертер\Конвертер\bin\Debug\net6.0\Конвертер.exe
+C:\Users\annak\source\repos\Конвертер\Конвертер\bin\Debug\net6.0\Конвертер.deps.json
+C:\Users\annak\source\repos\Конвертер\Конвертер\bin\Debug\net6.0\Конвертер.runtimeconfig.json
+C:\Users\annak\source\repos\Конвертер\Конвертер\bin\Debug\net6.0\Конвертер.dll
+C:\Users\annak\source\repos\Конвертер\Конвертер\bin\Debug\net6.0\Конвертер.pdb
+C:\Users\annak\source\repos\Конвертер\Конвертер\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\Конвертер.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\Конвертер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\Конвертер.AssemblyInfoInputs.cache
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\Конвертер.AssemblyInfo.cs
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\Конвертер.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\Конвертер.csproj.CopyComplete
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\Конвертер.dll
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\refint\Конвертер.dll
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\Конвертер.pdb
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\Конвертер.genruntimeconfig.cache
+C:\Users\annak\source\repos\Конвертер\Конвертер\obj\Debug\net6.0\ref\Конвертер.dll

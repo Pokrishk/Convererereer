@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UUX5Veoz6OHL1TUEdbf7wOlkfdiqzPnFXHerQd00nbg0alMpFb98+wR+vPCNLhyqzlgR4mQPlLvoHQDfzl3XwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\annak\\source\\repos\\Конвертер\\Конвертер\\Конвертер.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annak\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
